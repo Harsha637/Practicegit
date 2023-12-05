@@ -3,9 +3,8 @@ public class git {
 	
 	public static void main(String args[])
 	{
-		System.out.println("On git ");
-		System.out.println("On git ");
-		System.out.println("On git7 ");
-	}
+
+		System.out.println("git1");
+    }
 
 }
