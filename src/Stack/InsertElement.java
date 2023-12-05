@@ -13,7 +13,7 @@ public class InsertElement {
 		Stack<Integer> s=new Stack<Integer>();
 		Stack<Integer> s1=new Stack<Integer>();
 		
-		
+		//Push into stack
 		s.push(100);
 		s.push(200);
 		s.push(180);

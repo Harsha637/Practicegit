@@ -32,6 +32,7 @@ public class MinimumElement {
 		}
 	}
 
+	//Custom pop
 	private static void CustomPop()
 	{
 		int item=Mainstack.peek();
