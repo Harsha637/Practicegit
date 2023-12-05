@@ -14,6 +14,7 @@ public class MinimumElement {
 		CustomPush(22);
 		CustomPop();
 		CustomPush(23);
+		CustomPush(25);//pushed 25
 		CustomPush(6);
 		
 		System.out.println(Temp.peek());
