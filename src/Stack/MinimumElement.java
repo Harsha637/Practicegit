@@ -43,5 +43,18 @@ public class MinimumElement {
 		}
 		
 	}
+	
+	//Just for git purpose
+	private static void CustomPop1()
+	{
+		int item=Mainstack.peek();
+		Mainstack.pop();
+		if(Temp.peek()==item)
+		{
+			Temp.pop();
+		}
+		
+	}
+
 
 }
