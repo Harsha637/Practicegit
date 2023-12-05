@@ -5,7 +5,7 @@ public class git {
 	{
 
 		System.out.println("git1");
-		System.out.println("git2");
+		System.out.println("git");
 		
     }
 
